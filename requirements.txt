@@ -29,7 +29,7 @@ itsdangerous==0.24
 Jinja2==2.10
 kiwisolver==1.0.1
 kombu==4.1.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.2.2
 modeldb==0.0.1a7
